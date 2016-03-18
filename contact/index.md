@@ -6,7 +6,7 @@ title: "Contact Us"
 
 
 
-###Let's create amazing.
+<h3>Let's create amazing.</h3>
 
 We are here to answer any questions you may have about 360 video experiences. Reach out to us and we'll respond as soon as we can.
 
