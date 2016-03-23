@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title/
 title:      "GoPro Settings for Filming 360 Degree Videos"
 subtitle:   "Resolution, Frame rates and Protune"
 description: "Here is how you change GoPro settings to film 360 degree videos. Selecting frame rates and resolutions, as well as filming for slow motion"
-date:       2016-03-23 16:09:00
+date:       2016-03-22 16:09:00
 category:   "blog"
 comments: true
 image:
